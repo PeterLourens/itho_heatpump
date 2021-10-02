@@ -3,7 +3,7 @@ Reading data from Itho heatpump with USB-ISS and Arduino
 
 
 -----------
-|         |
+| USB_ISS |
 |         |
 -----------
    |   |
